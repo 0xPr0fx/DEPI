@@ -1,4 +1,4 @@
-> # DEPI Machine Walkthrough
+# DEPI Machine Walkthrough
 > 
 > 
 > 
