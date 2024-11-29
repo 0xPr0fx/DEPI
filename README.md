@@ -4,10 +4,14 @@
  
  This is a report of a penetration testing task we completed during the DEPI Training program. The training, sponsored by the National Telecommunications Regulatory Authority (NTRA) of Egypt, focused on the Vulnerability Analysis/Penetration Testing Track.
  
- 
+ ## Team Members
+
+ 1. Mohamed Mamdouh Abdulhamid
+ 2. Ahmed Amin Elkomy
+ 3. Zeyad Ashraf Mahmoud
+ 4. Mostafa Moataz
  
  ## Walkthrough
- 
  
  
  ### Step 1: Discovering the Target IP
