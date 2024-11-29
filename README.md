@@ -47,7 +47,7 @@
    nmap -Pn --host-timeout 100 --max-retries 0 -p 2 192.168.207.133
  
    nmap -Pn --host-timeout 100 --max-retries 0 -p 3 192.168.207.133
- 
+  ```
  
  
  ### Step 5: Web Application Enumeration
